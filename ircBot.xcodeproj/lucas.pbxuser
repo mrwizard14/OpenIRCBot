@@ -47,6 +47,13 @@
 			A040F73B1245D169006D7FF1 /* PBXTextBookmark */ = A040F73B1245D169006D7FF1 /* PBXTextBookmark */;
 			A040F73C1245D169006D7FF1 /* PBXTextBookmark */ = A040F73C1245D169006D7FF1 /* PBXTextBookmark */;
 			A040F73D1245D169006D7FF1 /* PBXTextBookmark */ = A040F73D1245D169006D7FF1 /* PBXTextBookmark */;
+			A040F74C1245D252006D7FF1 /* PBXTextBookmark */ = A040F74C1245D252006D7FF1 /* PBXTextBookmark */;
+			A040F7661245D3E6006D7FF1 /* PBXTextBookmark */ = A040F7661245D3E6006D7FF1 /* PBXTextBookmark */;
+			A040F7671245D3E6006D7FF1 /* PBXTextBookmark */ = A040F7671245D3E6006D7FF1 /* PBXTextBookmark */;
+			A040F7681245D3E6006D7FF1 /* PBXTextBookmark */ = A040F7681245D3E6006D7FF1 /* PBXTextBookmark */;
+			A040F7691245D3E6006D7FF1 /* PBXTextBookmark */ = A040F7691245D3E6006D7FF1 /* PBXTextBookmark */;
+			A040F76A1245D3E6006D7FF1 /* PBXTextBookmark */ = A040F76A1245D3E6006D7FF1 /* PBXTextBookmark */;
+			A040F76B1245D3E6006D7FF1 /* PBXTextBookmark */ = A040F76B1245D3E6006D7FF1 /* PBXTextBookmark */;
 			A0D41DC21245C72900CB969D = A0D41DC21245C72900CB969D /* PBXTextBookmark */;
 			A0D41DC31245C72900CB969D = A0D41DC31245C72900CB969D /* PBXTextBookmark */;
 			A0D41DC51245C72900CB969D = A0D41DC51245C72900CB969D /* PBXTextBookmark */;
@@ -60,10 +67,10 @@
 	};
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1, 660}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1380}\";\n    s = 0;\n}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1, 660}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1292}\";\n    s = 0;\n}";
 			sepNavIntBoundsRect = "{{0, 0}, {810, 448}}";
-			sepNavSelRange = "{693, 0}";
-			sepNavVisRange = "{0, 721}";
+			sepNavSelRange = "{492, 0}";
+			sepNavVisRange = "{0, 633}";
 			sepNavWindowFrame = "{{15, 4}, {824, 1019}}";
 		};
 	};
@@ -77,32 +84,32 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {810, 858}}";
 			sepNavSelRange = "{1514, 0}";
-			sepNavVisRange = "{948, 759}";
+			sepNavVisRange = "{861, 742}";
 		};
 	};
 	A02CF8C412430FA20012923F /* kernel.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {765, 891}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 941}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 546}}";
+			sepNavSelRange = "{985, 0}";
+			sepNavVisRange = "{26, 994}";
 			sepNavWindowFrame = "{{1, 9}, {824, 1019}}";
 		};
 	};
 	A02CF8C512430FA20012923F /* protocolHandler.h */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{72, 780}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1588}\";\n    s = 0;\n}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{72, 780}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1690}\";\n    s = 0;\n}";
 			sepNavIntBoundsRect = "{{0, 0}, {810, 448}}";
-			sepNavSelRange = "{0, 809}";
-			sepNavVisRange = "{0, 809}";
+			sepNavSelRange = "{870, 0}";
+			sepNavVisRange = "{0, 911}";
 			sepNavWindowFrame = "{{15, 4}, {824, 1019}}";
 		};
 	};
 	A02CF8C612430FA20012923F /* triggers.h */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{59, 773}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 905}\";\n    s = 0;\n}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{59, 773}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1033}\";\n    s = 0;\n}";
 			sepNavIntBoundsRect = "{{0, 0}, {810, 448}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 133}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 261}";
 		};
 	};
 	A02CF8CC124329180012923F /* PBXTextBookmark */ = {
@@ -165,7 +172,7 @@
 		isa = PBXTextBookmark;
 		fRef = A02CF8C512430FA20012923F /* protocolHandler.h */;
 		name = "protocolHandler.h: 1";
-		rLen = 1588;
+		rLen = 1690;
 		rLoc = 0;
 		rType = 0;
 		vrLen = 1588;
@@ -186,7 +193,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 39";
 		rLen = 0;
-		rLoc = 1320;
+		rLoc = 1232;
 		rType = 0;
 		vrLen = 1356;
 		vrLoc = 0;
@@ -196,9 +203,79 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 39";
 		rLen = 0;
-		rLoc = 1352;
+		rLoc = 1264;
 		rType = 0;
 		vrLen = 1380;
+		vrLoc = 0;
+	};
+	A040F74C1245D252006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 1216;
+		rType = 0;
+		vrLen = 1380;
+		vrLoc = 0;
+	};
+	A040F7661245D3E6006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C412430FA20012923F /* kernel.h */;
+		name = "kernel.h: 32";
+		rLen = 0;
+		rLoc = 985;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 26;
+	};
+	A040F7671245D3E6006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C612430FA20012923F /* triggers.h */;
+		name = "triggers.h: 36";
+		rLen = 0;
+		rLoc = 999;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 0;
+	};
+	A040F7681245D3E6006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C512430FA20012923F /* protocolHandler.h */;
+		name = "protocolHandler.h: 46";
+		rLen = 0;
+		rLoc = 1649;
+		rType = 0;
+		vrLen = 1690;
+		vrLoc = 0;
+	};
+	A040F7691245D3E6006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C312430FA20012923F /* connectionHandler.h */;
+		name = "connectionHandler.h: 54";
+		rLen = 0;
+		rLoc = 1514;
+		rType = 0;
+		vrLen = 742;
+		vrLoc = 861;
+	};
+	A040F76A1245D3E6006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 36";
+		rLen = 0;
+		rLoc = 1151;
+		rType = 0;
+		vrLen = 1292;
+		vrLoc = 0;
+	};
+	A040F76B1245D3E6006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 36";
+		rLen = 0;
+		rLoc = 1151;
+		rType = 0;
+		vrLen = 1292;
 		vrLoc = 0;
 	};
 	A0D41DC21245C72900CB969D /* PBXTextBookmark */ = {
@@ -243,7 +320,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 38";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1266;
 		rType = 0;
 		vrLen = 1085;
 		vrLoc = 259;

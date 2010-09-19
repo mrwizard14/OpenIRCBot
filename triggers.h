@@ -29,7 +29,11 @@ class triggers {
 private:
 
 public:
-
+	std::string hello(std::string room);
 };
+
+std::string triggers::hello(std::string room) {
+	return "PRIVMSG " + room + " : Hello";
+}
 
 #endif // TRIGGERS_H_INCLUDED

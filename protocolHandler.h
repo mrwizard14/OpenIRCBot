@@ -26,7 +26,7 @@
 
 class protocolHandler {
 private:
-    void respondToPing(std::string pingline);
+	std::string respondToPing(std::string pingline);
     int setNick(std::string nick);
     int sendUser(std::string name, std::string mode, std::string realName);
 public:
@@ -41,5 +41,9 @@ public:
     void partRoom(std::string room);
     void quit(std::string quitMessage);
 };
+
+std::string protocolHandler::respondToPing(std::string pingline) {
+	return "PONG " + pingline;
+}
 
 #endif // PROTOCOLHANDLER_H_INCLUDED

@@ -24,6 +24,14 @@
  *
  */
 
+/*
+ *
+ * Kernel
+ * This class coordinates between the two threads, one of which is working
+ * on IRC input, and the other, which is working on user input.
+ *
+ */
+
 class kernelClass {
 private:
 

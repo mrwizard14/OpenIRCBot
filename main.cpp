@@ -30,13 +30,14 @@ int main (int argc, char * const argv[])
     //                           //
     ///////////////////////////////
 
-    connectionHandler * IRCconnection = new connectionHandler;
-    kernelClass * kernel = new kernelClass;
-    triggers * logic = new triggers;
-	protocolHandler * mainProtocolHandler = new protocolHandler;
+    connectionHandler IRCconnection;
+    kernelClass kernel;
+    triggers logic;
+	protocolHandler mainProtocolHandler;
 	
-    //IRCconnection.getProtocolHandler(&mainProtocolHandler);
-	IRCconnection->connect("irc.freenode.net", 6667);
+    IRCconnection.getProtocolHandler(&mainProtocolHandler);
+	
+	IRCconnection.connect("irc.freenode.net", 6667);
 
     return 0;
 } // main

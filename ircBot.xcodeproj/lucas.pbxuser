@@ -34,17 +34,25 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 306562417;
-			PBXWorkspaceStateSaveDate = 306562417;
+			PBXPerProjectTemplateStateSaveDate = 306564709;
+			PBXWorkspaceStateSaveDate = 306564709;
 		};
 		perUserProjectItems = {
-			A02CF8CC124329180012923F /* PBXTextBookmark */ = A02CF8CC124329180012923F /* PBXTextBookmark */;
-			A0D41DC21245C72900CB969D /* PBXTextBookmark */ = A0D41DC21245C72900CB969D /* PBXTextBookmark */;
-			A0D41DC31245C72900CB969D /* PBXTextBookmark */ = A0D41DC31245C72900CB969D /* PBXTextBookmark */;
-			A0D41DC51245C72900CB969D /* PBXTextBookmark */ = A0D41DC51245C72900CB969D /* PBXTextBookmark */;
-			A0D41DE11245CB4500CB969D /* PBXTextBookmark */ = A0D41DE11245CB4500CB969D /* PBXTextBookmark */;
-			A0D41DE21245CB4500CB969D /* PBXTextBookmark */ = A0D41DE21245CB4500CB969D /* PBXTextBookmark */;
-			A0D41DE31245CB4500CB969D /* PBXTextBookmark */ = A0D41DE31245CB4500CB969D /* PBXTextBookmark */;
+			A02CF8CC124329180012923F = A02CF8CC124329180012923F /* PBXTextBookmark */;
+			A040F7351245D169006D7FF1 /* PBXTextBookmark */ = A040F7351245D169006D7FF1 /* PBXTextBookmark */;
+			A040F7361245D169006D7FF1 /* PBXTextBookmark */ = A040F7361245D169006D7FF1 /* PBXTextBookmark */;
+			A040F7381245D169006D7FF1 /* PBXTextBookmark */ = A040F7381245D169006D7FF1 /* PBXTextBookmark */;
+			A040F7391245D169006D7FF1 /* PBXTextBookmark */ = A040F7391245D169006D7FF1 /* PBXTextBookmark */;
+			A040F73A1245D169006D7FF1 /* PBXTextBookmark */ = A040F73A1245D169006D7FF1 /* PBXTextBookmark */;
+			A040F73B1245D169006D7FF1 /* PBXTextBookmark */ = A040F73B1245D169006D7FF1 /* PBXTextBookmark */;
+			A040F73C1245D169006D7FF1 /* PBXTextBookmark */ = A040F73C1245D169006D7FF1 /* PBXTextBookmark */;
+			A040F73D1245D169006D7FF1 /* PBXTextBookmark */ = A040F73D1245D169006D7FF1 /* PBXTextBookmark */;
+			A0D41DC21245C72900CB969D = A0D41DC21245C72900CB969D /* PBXTextBookmark */;
+			A0D41DC31245C72900CB969D = A0D41DC31245C72900CB969D /* PBXTextBookmark */;
+			A0D41DC51245C72900CB969D = A0D41DC51245C72900CB969D /* PBXTextBookmark */;
+			A0D41DE11245CB4500CB969D = A0D41DE11245CB4500CB969D /* PBXTextBookmark */;
+			A0D41DE21245CB4500CB969D = A0D41DE21245CB4500CB969D /* PBXTextBookmark */;
+			A0D41DE31245CB4500CB969D = A0D41DE31245CB4500CB969D /* PBXTextBookmark */;
 		};
 		sourceControlManager = A0E8429712430F5900E55453 /* Source Control */;
 		userBuildSettings = {
@@ -52,9 +60,11 @@
 	};
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {791, 546}}";
-			sepNavSelRange = "{1241, 0}";
-			sepNavVisRange = "{149, 1180}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1, 660}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1380}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 448}}";
+			sepNavSelRange = "{693, 0}";
+			sepNavVisRange = "{0, 721}";
+			sepNavWindowFrame = "{{15, 4}, {824, 1019}}";
 		};
 	};
 	8DD76F620486A84900D96B5E /* ircBot */ = {
@@ -65,32 +75,34 @@
 	};
 	A02CF8C312430FA20012923F /* connectionHandler.h */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{76, 782}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1707}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {810, 585}}";
-			sepNavSelRange = "{257, 0}";
-			sepNavVisRange = "{0, 763}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 858}}";
+			sepNavSelRange = "{1514, 0}";
+			sepNavVisRange = "{948, 759}";
 		};
 	};
 	A02CF8C412430FA20012923F /* kernel.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {810, 468}}";
+			sepNavIntBoundsRect = "{{0, 0}, {765, 891}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 941}";
+			sepNavWindowFrame = "{{1, 9}, {824, 1019}}";
 		};
 	};
 	A02CF8C512430FA20012923F /* protocolHandler.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {810, 598}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{197, 1391}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{72, 780}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1588}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 448}}";
+			sepNavSelRange = "{0, 809}";
+			sepNavVisRange = "{0, 809}";
 			sepNavWindowFrame = "{{15, 4}, {824, 1019}}";
 		};
 	};
 	A02CF8C612430FA20012923F /* triggers.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {810, 468}}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{59, 773}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 905}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 448}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 905}";
+			sepNavVisRange = "{0, 133}";
 		};
 	};
 	A02CF8CC124329180012923F /* PBXTextBookmark */ = {
@@ -101,6 +113,92 @@
 		rLoc = 0;
 		rType = 0;
 		vrLen = 905;
+		vrLoc = 0;
+	};
+	A040F7351245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859E8B029090EE04C91782 /* ircBot.1 */;
+		name = "ircBot.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1579;
+		vrLoc = 0;
+	};
+	A040F7361245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A040F7371245D169006D7FF1 /* main.ii */;
+		name = "main.ii: 25832";
+		rLen = 0;
+		rLoc = 746985;
+		rType = 0;
+		vrLen = 1116;
+		vrLoc = 746601;
+	};
+	A040F7371245D169006D7FF1 /* main.ii */ = {
+		isa = PBXFileReference;
+		name = main.ii;
+		path = "/Users/lucas/Development/IRC/OpenIRCBot/build/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/main.ii";
+		sourceTree = "<absolute>";
+	};
+	A040F7381245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C412430FA20012923F /* kernel.h */;
+		name = "kernel.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 0;
+	};
+	A040F7391245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C612430FA20012923F /* triggers.h */;
+		name = "triggers.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 0;
+	};
+	A040F73A1245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C512430FA20012923F /* protocolHandler.h */;
+		name = "protocolHandler.h: 1";
+		rLen = 1588;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 0;
+	};
+	A040F73B1245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C312430FA20012923F /* connectionHandler.h */;
+		name = "connectionHandler.h: 54";
+		rLen = 0;
+		rLoc = 1514;
+		rType = 0;
+		vrLen = 759;
+		vrLoc = 948;
+	};
+	A040F73C1245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 1320;
+		rType = 0;
+		vrLen = 1356;
+		vrLoc = 0;
+	};
+	A040F73D1245D169006D7FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 1352;
+		rType = 0;
+		vrLen = 1380;
 		vrLoc = 0;
 	};
 	A0D41DC21245C72900CB969D /* PBXTextBookmark */ = {
@@ -125,6 +223,7 @@
 	};
 	A0D41DC41245C72900CB969D /* dealer.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = dealer.h;
 		path = /Users/lucas/Development/Games/Blackjack/dealer.h;
 		sourceTree = "<absolute>";
@@ -144,7 +243,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 38";
 		rLen = 0;
-		rLoc = 1328;
+		rLoc = 1354;
 		rType = 0;
 		vrLen = 1085;
 		vrLoc = 259;
@@ -185,6 +284,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -192,6 +292,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = ircBot;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -209,5 +311,12 @@
 	A0E8429812430F5900E55453 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	C6859E8B029090EE04C91782 /* ircBot.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1579}";
+		};
 	};
 }

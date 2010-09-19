@@ -14,9 +14,10 @@
  */
 
 #include <iostream>
+
+#include "protocolHandler.h"
 #include "connectionHandler.h"
 #include "kernel.h"
-#include "protocolHandler.h"
 #include "triggers.h"
 
 using namespace std;
@@ -35,7 +36,7 @@ int main (int argc, char * const argv[])
 	protocolHandler * mainProtocolHandler = new protocolHandler;
 	
     //IRCconnection.getProtocolHandler(&mainProtocolHandler);
-	IRCconnection.connect();
+	IRCconnection->connect("irc.freenode.net", 6667);
 
     return 0;
 } // main

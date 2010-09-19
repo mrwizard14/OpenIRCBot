@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A0E8428C12430F4F00E55453 /* ircBot */;
+		activeTarget = 8DD76F620486A84900D96B5E /* ircBot */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* ircBot */,
+		);
+		codeSenseManager = A0E8429812430F5900E55453 /* Code sense */;
+		executables = (
+			A0E8428C12430F4F00E55453 /* ircBot */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					632,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306562417;
+			PBXWorkspaceStateSaveDate = 306562417;
+		};
+		perUserProjectItems = {
+			A02CF8CC124329180012923F /* PBXTextBookmark */ = A02CF8CC124329180012923F /* PBXTextBookmark */;
+			A0D41DC21245C72900CB969D /* PBXTextBookmark */ = A0D41DC21245C72900CB969D /* PBXTextBookmark */;
+			A0D41DC31245C72900CB969D /* PBXTextBookmark */ = A0D41DC31245C72900CB969D /* PBXTextBookmark */;
+			A0D41DC51245C72900CB969D /* PBXTextBookmark */ = A0D41DC51245C72900CB969D /* PBXTextBookmark */;
+			A0D41DE11245CB4500CB969D /* PBXTextBookmark */ = A0D41DE11245CB4500CB969D /* PBXTextBookmark */;
+			A0D41DE21245CB4500CB969D /* PBXTextBookmark */ = A0D41DE21245CB4500CB969D /* PBXTextBookmark */;
+			A0D41DE31245CB4500CB969D /* PBXTextBookmark */ = A0D41DE31245CB4500CB969D /* PBXTextBookmark */;
+		};
+		sourceControlManager = A0E8429712430F5900E55453 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 546}}";
+			sepNavSelRange = "{1241, 0}";
+			sepNavVisRange = "{149, 1180}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* ircBot */ = {
+		activeExec = 0;
+		executables = (
+			A0E8428C12430F4F00E55453 /* ircBot */,
+		);
+	};
+	A02CF8C312430FA20012923F /* connectionHandler.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{76, 782}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1707}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 585}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{0, 763}";
+		};
+	};
+	A02CF8C412430FA20012923F /* kernel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 941}";
+		};
+	};
+	A02CF8C512430FA20012923F /* protocolHandler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 598}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{197, 1391}";
+			sepNavWindowFrame = "{{15, 4}, {824, 1019}}";
+		};
+	};
+	A02CF8C612430FA20012923F /* triggers.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 905}";
+		};
+	};
+	A02CF8CC124329180012923F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C612430FA20012923F /* triggers.h */;
+		name = "triggers.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 0;
+	};
+	A0D41DC21245C72900CB969D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C512430FA20012923F /* protocolHandler.h */;
+		name = "protocolHandler.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1391;
+		vrLoc = 197;
+	};
+	A0D41DC31245C72900CB969D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A0D41DC41245C72900CB969D /* dealer.h */;
+		name = "dealer.h: 34";
+		rLen = 15;
+		rLoc = 977;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 951;
+	};
+	A0D41DC41245C72900CB969D /* dealer.h */ = {
+		isa = PBXFileReference;
+		name = dealer.h;
+		path = /Users/lucas/Development/Games/Blackjack/dealer.h;
+		sourceTree = "<absolute>";
+	};
+	A0D41DC51245C72900CB969D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C412430FA20012923F /* kernel.h */;
+		name = "kernel.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 0;
+	};
+	A0D41DE11245CB4500CB969D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 38";
+		rLen = 0;
+		rLoc = 1328;
+		rType = 0;
+		vrLen = 1085;
+		vrLoc = 259;
+	};
+	A0D41DE21245CB4500CB969D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C312430FA20012923F /* connectionHandler.h */;
+		name = "connectionHandler.h: 50";
+		rLen = 0;
+		rLoc = 1425;
+		rType = 0;
+		vrLen = 1543;
+		vrLoc = 0;
+	};
+	A0D41DE31245CB4500CB969D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A02CF8C312430FA20012923F /* connectionHandler.h */;
+		name = "connectionHandler.h: 36";
+		rLen = 0;
+		rLoc = 1038;
+		rType = 0;
+		vrLen = 1544;
+		vrLoc = 0;
+	};
+	A0E8428C12430F4F00E55453 /* ircBot */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ircBot;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A0E8429712430F5900E55453 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A0E8429812430F5900E55453 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

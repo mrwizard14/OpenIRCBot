@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1284673763 source:/home/lucas/Documents/C++/ircBot/main.cpp
+	<iostream>
+	"connectionHandler.h"
+	"kernel.h"
+	"protocolHandler.h"
+	"triggers.h"
+
+1284674068 /home/lucas/Documents/C++/ircBot/connectionHandler.h
+
+1284673048 /home/lucas/Documents/C++/ircBot/kernel.h
+
+1284673723 /home/lucas/Documents/C++/ircBot/protocolHandler.h
+
+1284672845 /home/lucas/Documents/C++/ircBot/triggers.h
+
+1284673763 source:/home/lucas/Dropbox/ircBot/main.cpp
+	<iostream>
+	"connectionHandler.h"
+	"kernel.h"
+	"protocolHandler.h"
+	"triggers.h"
+
+1284674068 /home/lucas/Dropbox/ircBot/connectionHandler.h
+
+1284674119 /home/lucas/Dropbox/ircBot/kernel.h
+
+1284753396 /home/lucas/Dropbox/ircBot/protocolHandler.h
+
+1284672845 /home/lucas/Dropbox/ircBot/triggers.h
+

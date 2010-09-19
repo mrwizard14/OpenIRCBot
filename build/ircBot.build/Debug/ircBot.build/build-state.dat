@@ -1,0 +1,83 @@
+TircBot
+v7
+r0
+t306562967.047942
+cCheck dependencies
+cCompileC build/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/main.o /Users/lucas/Dropbox/ircBot/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/lucas/Dropbox/ircBot/build/Debug/ircBot
+t1284692014
+s16408
+
+N/Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/ircBot.LinkFileList
+c000000004C92D82D000000000000005F
+t1284692013
+s95
+
+N/Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/lucas/Dropbox/ircBot/connectionHandler.h
+c000000004C95905900000000000006AB
+t1284870233
+s1707
+i"protocolHandler.h"
+
+N/Users/lucas/Dropbox/ircBot/kernel.h
+c000000004C92924700000000000003AD
+t1284674119
+s941
+
+N/Users/lucas/Dropbox/ircBot/main.cpp
+c000000004C959015000000000000054A
+t1284870165
+s1354
+i<iostream>
+i"connectionHandler.h"
+i"kernel.h"
+i"protocolHandler.h"
+i"triggers.h"
+
+N/Users/lucas/Dropbox/ircBot/protocolHandler.h
+c000000004C93C7F40000000000000634
+t1284753396
+s1588
+
+N/Users/lucas/Dropbox/ircBot/triggers.h
+c000000004C928D4D0000000000000389
+t1284672845
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306562967#306562967#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/main.o /Users/lucas/Dropbox/ircBot/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306562967.047054
+e306562967.047906
+r0
+xCompileC
+xbuild/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/main.o
+x/Users/lucas/Dropbox/ircBot/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/lucas/Dropbox/ircBot/main.cpp306562967#306562967#0(463"/Users/lucas/Dropbox/ircBot/main.cpp: In function 'int main(int, char* const*)':/Users/lucas/Dropbox/ircBot/main.cpp:38: error: request for member 'connect' in 'IRCconnection', which is of non-class type 'connectionHandler*'/Users/lucas/Dropbox/ircBot/main.cpp:33: warning: unused variable 'kernel'/Users/lucas/Dropbox/ircBot/main.cpp:34: warning: unused variable 'logic'/Users/lucas/Dropbox/ircBot/main.cpp:35: warning: unused variable 'mainProtocolHandler'4(4@96"Request for member 'connect' in 'IRCconnection', which is of non-class type 'connectionHandler*'306562967#81#145#0(6@36"/Users/lucas/Dropbox/ircBot/main.cpp306562965#38#0#38#0#0"0(22@24"Unused variable 'kernel'306562967#226#75#0(6@36"/Users/lucas/Dropbox/ircBot/main.cpp306562965#33#0#33#0#19"unused variable '*'0(22@23"Unused variable 'logic'306562967#301#74#0(6@36"/Users/lucas/Dropbox/ircBot/main.cpp306562965#34#0#34#0#19"unused variable '*'0(22@37"Unused variable 'mainProtocolHandler'306562967#375#88#0(6@36"/Users/lucas/Dropbox/ircBot/main.cpp306562965#35#0#35#0#19"unused variable '*'0(0#0#36"/Users/lucas/Dropbox/ircBot/main.cpp4300882208#1199"    cd /Users/lucas/Dropbox/ircBot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/ircBot-generated-files.hmap -I/Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/ircBot-own-target-headers.hmap -I/Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/ircBot-all-target-headers.hmap -iquote /Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/ircBot-project-headers.hmap -F/Users/lucas/Dropbox/ircBot/build/Debug -I/Users/lucas/Dropbox/ircBot/build/Debug/include -I/Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/DerivedSources/x86_64 -I/Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/DerivedSources -c /Users/lucas/Dropbox/ircBot/main.cpp -o /Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/lucas/Dropbox/ircBot/build/Debug/ircBot normal x86_64
+s306384813.956404
+e306384814.478770
+r1
+xLd
+x/Users/lucas/Dropbox/ircBot/build/Debug/ircBot
+xnormal
+xx86_64
+lSLF07#2@51"Link /Users/lucas/Dropbox/ircBot/build/Debug/ircBot306384813#306384814#0(0"0(0#0#0"13229839308750946#439"    cd /Users/lucas/Dropbox/ircBot    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/lucas/Dropbox/ircBot/build/Debug -F/Users/lucas/Dropbox/ircBot/build/Debug -filelist /Users/lucas/Dropbox/ircBot/build/ircBot.build/Debug/ircBot.build/Objects-normal/x86_64/ircBot.LinkFileList -mmacosx-version-min=10.6 -o /Users/lucas/Dropbox/ircBot/build/Debug/ircBot0#
+
